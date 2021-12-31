@@ -9,7 +9,7 @@ import Star from './Star';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Star/>
+    <Star mess="hi"/>
   </React.StrictMode>,
   document.getElementById('root')
 );
